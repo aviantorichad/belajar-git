@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Coba aahhh..
+=======
+Martinus Pratamagit
+
+Diubah di Khair Space pas jam 12 siang hehehe
+>>>>>>> c8c7d18e34096f195412676f53876de3961f4f60
